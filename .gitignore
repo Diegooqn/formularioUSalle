@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+*.log
+php-errors.log
+
+# Credenciales locales (NO subir)
+config/database.php
