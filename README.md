@@ -17,3 +17,9 @@ Proyecto PHP + MySQL publicado en InfinityFree.
 
 ## Equipo
 - Diego Quintero y Matías Virgüez
+
+## Cómo desplegar
+1. Subir a InfinityFree
+2. Editar config/database.php
+3. Verificar conexión.
+
