@@ -16,4 +16,4 @@ Proyecto PHP + MySQL publicado en InfinityFree.
 - POST /api/guardar_contacto.php  (campos: nombre, email, asunto, mensaje)
 
 ## Equipo
-- Diego Quintero y compañero
+- Diego Quintero y Matías Virgüez
