@@ -4,8 +4,11 @@
 # VS Code
 .vscode/
 
-# Logs
-logs/
+# Logs: ignora todo lo de logs menos el marcador .gitkeep
+logs/*
+!logs/.gitkeep
+
+# Archivos de logs genéricos (por si quedan fuera)
 *.log
 php-errors.log
 
